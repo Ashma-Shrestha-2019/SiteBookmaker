@@ -1,2 +1,2 @@
 # SiteBookmaker
-Learner app
+Learner website
